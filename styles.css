@@ -1,0 +1,22 @@
+#navbar {
+	position: absolute;
+	width: 100%;
+}
+
+#navbar div {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+#search, #logo {
+	text-align: center;
+}
+
